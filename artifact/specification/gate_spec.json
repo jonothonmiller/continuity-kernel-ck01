@@ -1,0 +1,53 @@
+{
+  "name": "Continuity Kernel CK-01 Identity Revision Gate",
+  "version": "1.2",
+  "states": [
+    "CLOSED",
+    "CANDIDATE",
+    "VERIFYING",
+    "SHADOW",
+    "AUTHORIZED",
+    "CONSOLIDATING",
+    "COOLDOWN",
+    "REJECTED"
+  ],
+  "architecture_invariants": [
+    "constitution must approve every revision",
+    "SAFE_MODE cannot initiate or continue consolidation",
+    "evidence must be bound to the proposed target",
+    "each forward or rollback identity displacement is norm bounded",
+    "the feasible identity set is invariant under projection",
+    "a completed revision receives retain or rollback review"
+  ],
+  "transitions": [
+    {"from": "CLOSED", "to": "CANDIDATE", "guard": "all soft evidence thresholds pass and constitution is compatible"},
+    {"from": "CLOSED", "to": "CLOSED", "guard": "candidate guard does not pass"},
+    {"from": "CANDIDATE", "to": "VERIFYING", "guard": "candidate remains supported for the candidate duration"},
+    {"from": "CANDIDATE", "to": "REJECTED", "guard": "support fails or a hard veto fires"},
+    {"from": "VERIFYING", "to": "SHADOW", "guard": "provenance quorum, target binding, authenticity, and persistence pass"},
+    {"from": "VERIFYING", "to": "REJECTED", "guard": "verification fails or times out"},
+    {"from": "SHADOW", "to": "AUTHORIZED", "guard": "candidate beats incumbent by the configured margin and all hard vetoes pass"},
+    {"from": "SHADOW", "to": "REJECTED", "guard": "shadow comparison fails or a hard veto fires"},
+    {"from": "AUTHORIZED", "to": "CONSOLIDATING", "guard": "governor is not SAFE_MODE and authorization remains valid"},
+    {"from": "AUTHORIZED", "to": "REJECTED", "guard": "authorization expires or a hard veto fires"},
+    {"from": "CONSOLIDATING", "to": "COOLDOWN", "guard": "bounded forward consolidation completes, the review subphase finishes, and the revision is retained or bounded rollback completes"},
+    {"from": "CONSOLIDATING", "to": "REJECTED", "guard": "SAFE_MODE or constitutional veto interrupts consolidation"},
+    {"from": "COOLDOWN", "to": "CLOSED", "guard": "counterfactual review retains the revision and cooldown expires"},
+    {"from": "COOLDOWN", "to": "CLOSED", "guard": "counterfactual review rolls back the revision and cooldown expires"},
+    {"from": "REJECTED", "to": "CLOSED", "guard": "rejection cooldown expires"}
+  ],
+  "hard_vetoes": [
+    "constitutional incompatibility",
+    "invalid or stale provenance",
+    "insufficient independent-domain quorum",
+    "target-binding failure",
+    "SAFE_MODE during authorization or consolidation"
+  ],
+  "lifecycle_note": "Review and bounded rollback are explicit subphases of CONSOLIDATING in this eight-state model. COOLDOWN begins only after the revision is retained or rollback reaches the checkpoint.",
+  "quorum_rule": {
+    "membership_condition": "n >= 3f + 1",
+    "quorum_size": "q = n - f",
+    "intersection_lower_bound": "2q - n = n - 2f >= f + 1",
+    "benchmark_instance": "n = 4, f = 1, q = 3"
+  }
+}

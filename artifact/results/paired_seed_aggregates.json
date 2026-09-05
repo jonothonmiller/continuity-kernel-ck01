@@ -1,0 +1,3152 @@
+[
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.005650356016051979,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10000
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.009116479870453768,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10001
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.006928504631474357,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10002
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.008715555001182053,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10003
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.006128896918459661,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10004
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.007398611383886953,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10005
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.008769572448837644,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10006
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.010862995003379998,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10007
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.009387980152330246,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10008
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.0067247304813415655,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10009
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.006062568598929384,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10010
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.010654545911208723,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10011
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.009966036305989023,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10012
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.012698514391748381,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10013
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.009159834909147513,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10014
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.006840158633124544,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10015
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.009320639463589927,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10016
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.0086549272936991,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10017
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.009002978464825982,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10018
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.008220070400582183,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10019
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.012048919785148597,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10020
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.007020206351639074,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10021
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.008817251857326205,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10022
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.0037352432584317136,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10023
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.008273246048136963,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10024
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.007599556626880166,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10025
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.00559336811805559,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10026
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.00714453075386961,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10027
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.0075121662189477295,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10028
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.009161248301858592,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10029
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.004077656592936817,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10000
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": 0.00607177458658597,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10001
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.00432364995120426,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10002
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.006068321077527108,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10003
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.005668214840198281,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10004
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.0039966629069719505,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10005
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.0035925627791162894,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10006
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": 0.004814403441261665,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10007
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.003526140553034753,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10008
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.0035111696975628783,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10009
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.004479796772673756,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10010
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": 0.003279914913367308,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10011
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": 0.009247923787506768,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10012
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": 0.009296211637735488,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10013
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.004906177576662952,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10014
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.005738089167378926,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10015
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": 0.0006797835530212023,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10016
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.0053814804596991304,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10017
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": 0.007629452718908519,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10018
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.004348345261444401,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10019
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": 0.009509649764006525,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10020
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.005612441743780177,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10021
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.004472803117885,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10022
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.0035593102660727593,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10023
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.00497511978832557,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10024
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.0029138131842797754,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10025
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.004060988663816718,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10026
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.004610391762368125,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10027
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.004840098516758634,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10028
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.0034606168057579726,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10029
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.08301944613700572,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10000
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.0707024614623751,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10001
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.08063160348828907,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10002
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.07403764771967224,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10003
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.09755726736586269,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10004
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.06920869046402328,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10005
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.07259444549455249,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10006
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.06358990793047467,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10007
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.0705944248775754,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10008
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.07154972838179852,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10009
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.06858903740328627,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10010
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.06987236959977705,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10011
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.07931314242599045,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10012
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.05545653960034337,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10013
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.06573520463663125,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10014
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.07314669674213002,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10015
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.0702557237363424,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10016
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.0819666973987007,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10017
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.07871578064521827,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10018
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.0811538724364951,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10019
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.07106858734262572,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10020
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.06277979094774219,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10021
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.06442866606201103,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10022
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.08165117334169925,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10023
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.0916973347104354,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10024
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.06534337295377583,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10025
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.09445850145708255,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10026
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.0603494001465344,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10027
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.09469089719382459,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10028
+  },
+  {
+    "comparison": "ck01_revision_control minus no_temporal_gate",
+    "mean_difference": -0.07550882156358026,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10029
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.005100135690687951,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10000
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.0038289116403907248,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10001
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.004162334960975696,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10002
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.006316712235340866,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10003
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.004271188359233519,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10004
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.00627589490545165,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10005
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.005951192776599747,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10006
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.003548021696624912,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10007
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.004154402442956025,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10008
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.010830458571056542,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10009
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.006812796257942079,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10010
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.004459909404239065,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10011
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.003765698600600251,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10012
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.004274399646997767,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10013
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.004346725901346462,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10014
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.006280005480976193,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10015
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.006522422820226032,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10016
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.0047631355793122075,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10017
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.00024776324310466565,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10018
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.006380761158348353,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10019
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.00407137640033697,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10020
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.005195003655891157,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10021
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.006092128212678226,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10022
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.0049528780787980115,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10023
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.004175946604716072,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10024
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.007048516103765643,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10025
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.005844215049632938,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10026
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.004443827267756939,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10027
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.006239916061195289,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10028
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.008063098541096374,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10029
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.00030550419302936035,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10000
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.0005497005838963756,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10001
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.0007881509908779482,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10002
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.010183532770930266,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10003
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.000472022991595875,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10004
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.010092985303736543,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10005
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.008970641488590643,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10006
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.0011476177477487124,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10007
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.00037708034802427256,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10008
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.015704864910292823,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10009
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.010962505579883984,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10010
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.0015886693480248368,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10011
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.001597349642623182,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10012
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.0006634495955404082,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10013
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.0012064298991037645,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10014
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.00964970252122118,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10015
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.01035808907313063,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10016
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.0004617210826956317,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10017
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.004725918641950274,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10018
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.00994857196423053,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10019
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": 0.0002511474182236368,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10020
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.0006602751381241555,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10021
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.008691645707574054,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10022
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.0003937727007725043,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10023
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.0006208983186165555,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10024
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.012060587003975932,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10025
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.0009417918965315853,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10026
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.0006264453996453823,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10027
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.008924820907203476,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10028
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.006126373583892911,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10029
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.07111111111111157,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10000
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.0711111111111107,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10001
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.07111111111111067,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10002
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.07111111111111153,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10003
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.07111111111111129,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10004
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.07111111111111132,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10005
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.07111111111111097,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10006
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.07111111111111143,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10007
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.07111111111111126,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10008
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.07111111111111125,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10009
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.07111111111111133,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10010
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.07111111111111142,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10011
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.0711111111111111,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10012
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.07111111111111112,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10013
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.07111111111111114,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10014
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.07111111111111122,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10015
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.07111111111111154,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10016
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.07111111111111072,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10017
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.07111111111111082,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10018
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.07111111111111112,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10019
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.07111111111111078,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10020
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.07111111111111146,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10021
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.07111111111111139,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10022
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.07111111111111117,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10023
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.07111111111111097,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10024
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.071111111111111,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10025
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.07111111111111101,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10026
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.07111111111111089,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10027
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.07111111111111162,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10028
+  },
+  {
+    "comparison": "ck01_revision_control minus no_provenance",
+    "mean_difference": -0.07111111111111147,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10029
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": 0.01630212199804837,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10000
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": 0.014088687270938495,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10001
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": 0.017611482945673447,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10002
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": 0.01450952902844148,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10003
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": 0.018868792222611026,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10004
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": 0.015795207326627352,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10005
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": 0.014353571712949117,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10006
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": 0.013150161009690218,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10007
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": 0.013991855165036673,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10008
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": 0.015601464271688811,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10009
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": 0.017467602573618814,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10010
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": 0.013796558641905,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10011
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": 0.017123129156535896,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10012
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": 0.012429199831876674,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10013
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": 0.013742471346327136,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10014
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": 0.015559913925417434,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10015
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": 0.014616284221494129,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10016
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": 0.015619180165651336,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10017
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": 0.0150741171994784,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10018
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": 0.016704948720923887,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10019
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": 0.0123070287977129,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10020
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": 0.01727670144768598,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10021
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": 0.01325960149621017,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10022
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": 0.01925906863923483,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10023
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": 0.015043393464275658,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10024
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": 0.01653468698674052,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10025
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": 0.018067814287460158,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10026
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": 0.014968267283404045,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10027
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": 0.014414649709971417,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10028
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": 0.017971198642678217,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10029
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.0007298381223244626,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10000
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.0003344699177036092,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10001
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.0003385602488561024,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10002
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.0002363045385083016,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10003
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.0006593617126992328,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10004
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.0004970195109460326,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10005
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.010563592535491014,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10006
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.00024733819109923463,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10007
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.0005731851642115194,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10008
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.000502242881551475,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10009
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.00036099875939319743,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10010
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.00013297204377894496,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10011
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.00046046644349514185,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10012
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": 0.0030127409732584823,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10013
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.0006534236298477407,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10014
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.00021898893111145282,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10015
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.00027619104831623227,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10016
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.00045456910498997824,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10017
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": 0.005511339111169328,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10018
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.000677812037157181,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10019
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": 0.0038303290281347844,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10020
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.0004927618743164351,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10021
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.0005635781897350476,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10022
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.00030308756520346536,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10023
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.0004561815319215097,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10024
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.0005325905957492481,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10025
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.0005532612375217804,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10026
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.0008990323956971757,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10027
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.0005466018527121908,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10028
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.00014031403658204466,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10029
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.042898404411034825,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10000
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.043411173233468645,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10001
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.04941226185219554,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10002
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.04896839361691328,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10003
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.05279493217214043,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10004
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.04150036874809628,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10005
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.037031522845412605,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10006
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.03824664812933594,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10007
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.045791227545526156,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10008
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.0394076673744132,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10009
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.04184286647738881,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10010
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.04594081489957912,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10011
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.05295848339704182,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10012
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.043090541515333536,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10013
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.04160582139954777,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10014
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.04443479163589901,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10015
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.039998021838137034,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10016
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.04474754267725953,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10017
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.052423637745709406,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10018
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.04332089380812673,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10019
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.04220611120876793,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10020
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.04446559667860947,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10021
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.03935518164481912,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10022
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.05333332365851619,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10023
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.048632749086482,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10024
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.03724616229837841,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10025
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.053333281947016885,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10026
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.03814822662336423,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10027
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.040851585828649756,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10028
+  },
+  {
+    "comparison": "ck01_revision_control minus no_rollback",
+    "mean_difference": -0.05118753308221423,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10029
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.04975172222362291,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10000
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.04136491777405707,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10001
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.05426440228206405,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10002
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.04811018376891371,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10003
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.0553271858925409,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10004
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.048045325038836836,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10005
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.04741648925397625,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10006
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.043565164603354654,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10007
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.048216491938878586,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10008
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.04793999310815725,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10009
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.04899516059142418,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10010
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.043168664894352636,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10011
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.04733601040437929,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10012
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.04357967520271021,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10013
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.0509376198400848,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10014
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.04865861989293266,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10015
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.047847547193337246,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10016
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.054567490652020996,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10017
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.03971721420443838,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10018
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.053474380192817444,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10019
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.0416438578842759,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10020
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.053211539132587506,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10021
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.046353433573647504,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10022
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.04688483896526888,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10023
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.049473499670384356,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10024
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.052899072738253464,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10025
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.046491234712977655,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10026
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.052322724790131746,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10027
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.04545353743911768,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10028
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.05914966476466093,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10029
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": -0.16945031507015199,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10000
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": -0.1507832188714032,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10001
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": -0.18687615472278232,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10002
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": -0.1787436893968431,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10003
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": -0.19017839334273423,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10004
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": -0.1775234094022933,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10005
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": -0.17201485541264644,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10006
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": -0.15683690927203794,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10007
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": -0.1806062085061186,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10008
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": -0.17134741120189312,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10009
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": -0.1782263926874345,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10010
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": -0.166195796267848,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10011
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": -0.17506421018905446,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10012
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": -0.16226277888318455,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10013
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": -0.17717229131117582,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10014
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": -0.1712080846564228,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10015
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": -0.18147346904533834,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10016
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": -0.18640713443978402,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10017
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": -0.1544570899845465,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10018
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": -0.191594673946244,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10019
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": -0.1572604973668392,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10020
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": -0.1894544548157868,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10021
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": -0.17028691458421039,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10022
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": -0.1679617909366435,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10023
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": -0.18065932879460053,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10024
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": -0.18497234926608389,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10025
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": -0.1718158854476213,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10026
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": -0.17790644943302295,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10027
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": -0.17292128112553568,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10028
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": -0.20260027588758278,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10029
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.10666666666666644,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10000
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.10666666666666666,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10001
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.10666666666666672,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10002
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.10666666666666666,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10003
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.10666666666666652,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10004
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.10666666666666706,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10005
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.10666666666666648,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10006
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.10666666666666687,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10007
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.10666666666666652,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10008
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.10666666666666723,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10009
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.10666666666666665,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10010
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.10666666666666653,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10011
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.1066666666666669,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10012
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.10666666666666647,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10013
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.10666666666666677,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10014
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.10666666666666684,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10015
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.10666666666666663,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10016
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.10666666666666674,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10017
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.10666666666666685,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10018
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.10666666666666691,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10019
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.10666666666666687,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10020
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.10666666666666692,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10021
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.10666666666666655,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10022
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.10666666666666696,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10023
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.10666666666666642,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10024
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.10666666666666694,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10025
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.10666666666666705,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10026
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.10666666666666656,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10027
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.10666666666666645,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10028
+  },
+  {
+    "comparison": "ck01_revision_control minus shield_only",
+    "mean_difference": 0.1066666666666662,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10029
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.009177769828719885,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10000
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.012485179617100975,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10001
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.009222651994255673,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10002
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.012257713697197883,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10003
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.011817861250785865,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10004
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.012180695937922346,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10005
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.013020857735494527,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10006
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.01405668636623816,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10007
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.012454524183806449,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10008
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.011064446429111344,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10009
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.010040189071053862,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10010
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.01487767602042405,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10011
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.017130045581114344,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10012
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.016188111007797195,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10013
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.01229025303514423,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10014
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.009784800279186193,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10015
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.015826613631487668,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10016
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.012660141647877309,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10017
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.013133818256903209,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10018
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.014140958012060069,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10019
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.016437606400411378,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10020
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.010356525895076345,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10021
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.012250620401175452,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10022
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.0061101543895283085,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10023
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.01315724515118514,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10024
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.011758254718752815,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10025
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.009039078162375307,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10026
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.008728859055222533,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10027
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.013014633766910193,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10028
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.01381917011738835,
+    "metric": "mean_utility",
+    "scenario_count": 9,
+    "seed": 10029
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.00014307457619863864,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10000
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": 0.008996963180468963,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10001
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": 3.2731719510752514e-05,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10002
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.0005109269083779502,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10003
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.0005976400611306083,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10004
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.0007917570902145993,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10005
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.0005924891194915438,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10006
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": 0.009372136181818517,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10007
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.000550516512628971,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10008
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": 6.964237916773852e-05,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10009
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -6.107148228512342e-05,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10010
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": 0.0068671945115584485,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10011
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": 0.01345076852380175,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10012
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": 0.012364166325524844,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10013
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.0006727864792589924,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10014
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.00048346994115878187,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10015
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": 0.004966150715236219,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10016
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.0007303401689584066,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10017
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": 0.011675678796600038,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10018
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.0006342635239371934,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10019
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": 0.013479981570350172,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10020
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": 0.00027849067225610695,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10021
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.0008646580511966438,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10022
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.00017687251896544327,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10023
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.0006145585937525811,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10024
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.0001269568951011429,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10025
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.00034645969685963843,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10026
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.0005526452052200632,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10027
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.00035051457431835016,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10028
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": 0.0014521888008939372,
+    "metric": "final_error",
+    "scenario_count": 9,
+    "seed": 10029
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.07659020804758875,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10000
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.06476507263447315,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10001
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.07448103033090024,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10002
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.06733717390389841,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10003
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.09142618189844204,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10004
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.06283806153745762,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10005
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.06600385591461742,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10006
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.05658051183399894,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10007
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.06501866874989244,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10008
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.06520658432919393,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10009
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.06291871395574136,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10010
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.0639814602892058,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10011
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.0732200721323195,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10012
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.04968765722100238,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10013
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.059281568783579666,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10014
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.06696033838351126,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10015
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.06355501400036444,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10016
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.07507624450994929,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10017
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.07183680680681906,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10018
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.07412246804153659,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10019
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.06486515361959737,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10020
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.05663060356606898,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10021
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.058303220199724594,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10022
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.0754673452928422,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10023
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.08566140107375944,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10024
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.059726940700986796,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10025
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.08803548673905494,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10026
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.05343457889288754,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10027
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.08816383198933511,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10028
+  },
+  {
+    "comparison": "ck01_revision_control minus adaptive_memory_only",
+    "mean_difference": -0.06912002860791029,
+    "metric": "max_attack_or_transient_drift",
+    "scenario_count": 9,
+    "seed": 10029
+  }
+]

@@ -1,0 +1,144 @@
+{
+  "BASE_ENVIRONMENT_RANGES": {
+    "type": "reference simulation",
+    "value": [
+      [
+        0.14,
+        0.28
+      ],
+      [
+        0.65,
+        0.8
+      ],
+      [
+        0.38,
+        0.52
+      ]
+    ]
+  },
+  "BOOTSTRAP_REPLICATES": {
+    "type": "reference simulation",
+    "value": 10000
+  },
+  "BOOTSTRAP_SEED": {
+    "type": "reference simulation",
+    "value": 20260904
+  },
+  "CANDIDATE_INNOVATION": {
+    "type": "synthetic calibration",
+    "value": 0.05
+  },
+  "CANDIDATE_RESET_THRESHOLD": {
+    "type": "synthetic calibration",
+    "value": 0.1
+  },
+  "CANDIDATE_RETENTION": {
+    "type": "synthetic calibration",
+    "value": 0.95
+  },
+  "CHANGE_THRESHOLD": {
+    "type": "synthetic calibration",
+    "value": 0.08
+  },
+  "CONSOLIDATION_CYCLES": {
+    "type": "reference simulation",
+    "value": 80
+  },
+  "COOLDOWN_CYCLES": {
+    "type": "reference simulation",
+    "value": 30
+  },
+  "IDENTITY_LOWER_BOUNDS": {
+    "type": "reference simulation",
+    "value": [
+      -0.2,
+      0.05,
+      0.0
+    ]
+  },
+  "IDENTITY_TARGET_COEFFICIENTS": {
+    "type": "reference simulation",
+    "value": {
+      "caution_hazard": 0.85,
+      "caution_intercept": 0.05,
+      "exploration_intercept": 0.1,
+      "exploration_resource_hazard_interaction": 0.7,
+      "persistence_demand": 0.55,
+      "persistence_intercept": 0.2,
+      "persistence_resource_shortfall": 0.2
+    }
+  },
+  "IDENTITY_UPPER_BOUNDS": {
+    "type": "reference simulation",
+    "value": [
+      0.75,
+      0.8,
+      0.75
+    ]
+  },
+  "INLIER_RADIUS": {
+    "type": "synthetic calibration",
+    "value": 0.18
+  },
+  "MAX_STEP": {
+    "type": "reference simulation",
+    "value": 0.004
+  },
+  "MEMORY_INNOVATION": {
+    "type": "synthetic calibration",
+    "value": 0.02
+  },
+  "MEMORY_RETENTION": {
+    "type": "synthetic calibration",
+    "value": 0.98
+  },
+  "MIN_INLIERS": {
+    "type": "security policy",
+    "value": 3
+  },
+  "PERSISTENCE_CYCLES": {
+    "type": "synthetic calibration",
+    "value": 60
+  },
+  "REVIEW_CYCLES": {
+    "type": "reference simulation",
+    "value": 60
+  },
+  "ROLLBACK_MARGIN": {
+    "type": "synthetic calibration",
+    "value": 0.01
+  },
+  "SHIFTED_ENVIRONMENT_RANGES": {
+    "type": "reference simulation",
+    "value": [
+      [
+        0.62,
+        0.78
+      ],
+      [
+        0.46,
+        0.62
+      ],
+      [
+        0.58,
+        0.74
+      ]
+    ]
+  },
+  "SOURCE_NOISE_SD": {
+    "type": "reference simulation",
+    "value": 0.018
+  },
+  "SPOOF_NOISE_SD": {
+    "type": "reference simulation",
+    "value": 0.006
+  },
+  "UTILITY_CAUTION_SHORTFALL_WEIGHT": {
+    "type": "reference simulation",
+    "value": 0.35
+  },
+  "UTILITY_DISTANCE_SCALE": {
+    "type": "reference simulation",
+    "value": 1.7320508075688772
+  }
+}

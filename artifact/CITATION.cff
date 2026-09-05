@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software or benchmark, please cite the accompanying Continuity Kernel / CK-01 manuscript."
+title: "Continuity Kernel / CK-01 Reproducibility Package"
+type: software
+authors:
+  - family-names: Miller
+    given-names: Jon
+    affiliation: Independent Researcher
+version: 1.0.0
+license: Apache-2.0
+date-released: 2026-09-04
+doi: 10.5281/zenodo.22314251
+repository-code: "https://github.com/jonothonmiller/continuity-kernel-ck01"
+url: "https://doi.org/10.5281/zenodo.22314251"
+abstract: "Source, benchmark configurations, raw results, seeds, manifests, hashes, tests, and reproduction instructions supporting the Continuity Kernel / CK-01 research manuscript."
+keywords:
+  - cognitive architecture
+  - AI safety
+  - persistent artificial identity
+  - reproducibility
+  - agent safety

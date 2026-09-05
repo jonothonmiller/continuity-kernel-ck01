@@ -1,0 +1,22 @@
+{
+  "title": "Continuity Kernel / CK-01 Reproducibility Package",
+  "upload_type": "software",
+  "description": "Source, benchmark configurations, raw results, seeds, manifests, hashes, tests, and reproduction instructions supporting the Continuity Kernel / CK-01 research manuscript.",
+  "creators": [
+    {
+      "name": "Miller, Jon",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "version": "1.0.0",
+  "publication_date": "2026-09-04",
+  "license": "Apache-2.0",
+  "keywords": [
+    "cognitive architecture",
+    "AI safety",
+    "persistent artificial identity",
+    "reproducibility",
+    "agent safety"
+  ],
+  "notes": "Repository: https://github.com/jonothonmiller/continuity-kernel-ck01. Reserved archival DOI: 10.5281/zenodo.22314251. The manuscript is distributed under CC BY 4.0; software and benchmark materials are distributed under Apache License 2.0."
+}
