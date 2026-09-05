@@ -2,7 +2,8 @@ services:
   - type: web
     name: ck01-mcp-adapter
     runtime: docker
-    healthCheckPath: /health
+    rootDir: integrations/ck-mcp-adapter/v0.4
+    healthCheckPath: /healthz
     envVars:
       - key: CK01_API_KEYS
         sync: false
