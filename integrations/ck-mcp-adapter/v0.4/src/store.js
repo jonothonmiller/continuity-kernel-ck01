@@ -10,6 +10,7 @@ export class Store {
   provenance(tenant,candidateId,sourceId,statement){const c=this.db.prepare("SELECT id FROM candidates WHERE id=? AND tenant=?").get(candidateId,tenant);if(!c) throw new Error("candidate_not_found");const id=randomUUID(),now=new Date().toISOString();this.db.prepare("INSERT INTO provenance VALUES(?,?,?,?,?,?)").run(id,tenant,candidateId,sourceId,statement,now);return {id,candidate_id:candidateId,created_at:now};}
   supersede(tenant,id,replacement){const r=this.db.prepare("UPDATE candidates SET status='SUPERSEDED',superseded_by=? WHERE id=? AND tenant=? AND status='PROPOSED'").run(replacement,id,tenant);if(!r.changes) throw new Error("candidate_not_found_or_not_active");return {id,status:"SUPERSEDED",superseded_by:replacement,state_changed:false};}
   brief(tenant){return this.db.prepare("SELECT c.*,COUNT(p.id) provenance_count FROM candidates c LEFT JOIN provenance p ON p.candidate_id=c.id AND p.tenant=c.tenant WHERE c.tenant=? GROUP BY c.id ORDER BY c.created_at DESC LIMIT 50").all(tenant);}
+  health(){return this.db.prepare("SELECT 1 AS ok").get().ok===1;}
   close(){this.db.close();}
 }
 
