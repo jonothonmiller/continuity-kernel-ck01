@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "continuity-kernel-ck01": {
+      "url": "https://your-service.example/mcp",
+      "headers": {"Authorization": "Bearer replace-with-tenant-secret"}
+    }
+  }
+}

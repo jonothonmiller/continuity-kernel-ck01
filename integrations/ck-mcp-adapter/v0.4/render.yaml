@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: ck01-mcp-adapter
+    runtime: docker
+    healthCheckPath: /health
+    envVars:
+      - key: CK01_API_KEYS
+        sync: false
+      - key: CK01_DATABASE_PATH
+        value: /var/data/ck01-adapter.sqlite
+    disk:
+      name: ck01-data
+      mountPath: /var/data
+      sizeGB: 1
+
